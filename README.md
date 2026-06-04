@@ -1,2 +1,2 @@
 # Smart-Kantin-Koperasi
-Project 2 Technopreneur 
+Final project Technopreneur 
